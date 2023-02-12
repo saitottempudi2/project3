@@ -1,0 +1,89 @@
+.back
+{
+    color: #0474bc;
+    background-color: white;
+    border-color: #0474bc;
+    padding: 5px 15px;
+    border-radius: 5px;
+   
+}
+
+
+.next
+{
+    color: #fff;
+    background-color: #0474bc;
+    border-color: #0474bc;
+    padding: 5px 15px;
+    border-radius: 5px;
+    float: right;
+}
+
+
+.main-area
+{
+    background: white;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 600px;
+    margin: 10px 10px 10px 120px;
+    padding: 10px;
+    display: inline-block;
+}
+
+.address
+{
+    background: #ecf1f6;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+
+.card
+{
+    width: 278px;
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 5px;
+    display: inline-block;
+    margin: 10px 10px 0 0 ;
+    vertical-align:top;
+    height: 170px;
+}
+
+.cards
+{
+    margin-bottom: 10px;
+}
+.aside
+{
+    display: inline-block;
+    vertical-align: top;
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    border-radius: 2px;
+    margin: 10px 0 0 0;
+    padding: 10px;
+}
+.aside img
+{
+    width: 50px;
+    height: 50px;
+}
+
+.ser-address
+{
+    margin-bottom: 10px;
+}
+.ser-address span
+{
+    display: block;
+}
+
+.alignleft {
+	float: left;
+}
+.alignright {
+	float: right;
+}
